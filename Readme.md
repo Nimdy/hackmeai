@@ -1,6 +1,9 @@
 # HackMe.AI
 
+[Visit HackMe.AI](https://hackme.ai)
+
 **HackMe.AI** is a first-of-its-kind, browser-based **AI Evolution Lab and Learning Simulator** that allows users to experience the history, development, and fragility of artificial intelligence through interactive simulations.
+
 
 This repository serves as the **public-facing README** for the project. While the source code is not open-sourced at this time, this page explains the vision, structure, and purpose of HackMe.AI.
 
